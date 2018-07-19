@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>luxu@world ~</title>
+    <link>https://luuuxu.github.io/</link>
+    <description>Recent content on luxu@world ~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jul 2018 11:44:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://luuuxu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://luuuxu.github.io/post/ceshi/</link>
+      <pubDate>Thu, 19 Jul 2018 11:44:31 +0800</pubDate>
+      
+      <guid>https://luuuxu.github.io/post/ceshi/</guid>
+      <description>我是一个 的</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://luuuxu.github.io/about/</link>
+      <pubDate>Thu, 19 Jul 2018 11:43:00 +0800</pubDate>
+      
+      <guid>https://luuuxu.github.io/about/</guid>
+      <description>我是一个标题 测试</description>
+    </item>
+    
+  </channel>
+</rss>
